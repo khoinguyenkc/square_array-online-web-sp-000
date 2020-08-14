@@ -3,4 +3,6 @@ def square_array(array)
     newarray = []
   array.each do |item|
     newarray.push(item**2)
+  end
+  return newarray
 end
