@@ -6,3 +6,5 @@ def square_array(array)
   end
   return newarray
 end
+
+puts square_array([2,4,8])
